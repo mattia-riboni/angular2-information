@@ -1,0 +1,19 @@
+<header>
+  <h1>TECH NEWS</h1>
+  <h4>Latest news in tech world!</h4>
+</header>
+<div class="container">
+  <div *ngFor="let item of news; let i = index" class="card text-center text-bg-dark">
+    <div class="card-header">
+      Published by: {{item.by}}
+    </div>
+    <div class="card-body">
+      <h5 class="card-title">{{item.title}}</h5>
+      <p class="card-text">Date: {{item.time * 1000 | date: 'short'}}</p>
+      <a href="{{item.url}}" target="_blank" class="btn btn-warning">Read</a>
+    </div>
+  </div>
+  <div class="d-grid gap-2 d-md-block">
+    <button type="button" (click)="loadMore()" class="btn btn-warning">Load More</button>
+  </div>
+</div>
