@@ -71,7 +71,7 @@ You should:
  2. Clone the repo
 
 	   ```sh
-	   https://github.com/mattia-riboni/Ng-city-network  
+	   https://github.com/mattia-riboni/angular2-information  
     ```
    
  3. Install NPM packages
@@ -96,7 +96,7 @@ You should:
 
 ## Usage
 
-This is a single page application that allows users to get to the latest news and articles from tech world. The view contains 10 articles, and can be extended clicking on the "Load More" button on the bottom of the page. To read the news, the users have to click on "Read" button, and a new blank page will be opened. 
+This is a single page application that allows users to get to the latest news and articles from tech world. The view contains 10 articles, and can be extended clicking on "Load More" button on the bottom of the page. To read the news, the users have to click on "Read" button, and a new blank page will be opened. 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
