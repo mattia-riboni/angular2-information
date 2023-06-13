@@ -1,4 +1,4 @@
-## City-Network
+## Angular Information
 
 <details>
   <summary>Table of Contents</summary>
@@ -26,7 +26,7 @@
 ## About The Project
 ![Angular Information](/src/assets/screenshot.png)
 
-This start2impact (for NTTData) project has been made to help to connect people in cities, sharing local news, events, informations, sport and so more. The usage of this app is really easy thanks to his social network look. To have a look without install the project and run it locally, here's a [web version](https://angular-information.web.app/) deployed with [Firebase](https://firebase.google.com/)  
+This start2impact project has been made to help to reach the latest news and articles in tech world. To have a look without install the project and run it locally, here's a [web version](https://angular-information.web.app/) deployed with [Firebase](https://firebase.google.com/)  
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -140,7 +140,7 @@ Project Link: [https://github.com/mattia-riboni/angular2-information](https://gi
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
 [product-screenshot]: images/screenshot.png
-[Bootstrap]: https://img.shields.io/badge/bootstrap?style=for-the-badge&logo=bootstrap&logoColor=61DAFB
+[Bootstrap]: https://img.shields.io/badge/-Bootstrap-blueviolet?style=for-the-badge&logo=bootstrap
 [Bootstrap-url]: https://getbootstrap.com/
 [Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
 [Angular-url]: https://angular.io/
