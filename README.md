@@ -36,7 +36,7 @@ This start2impact project has been made to help to reach the latest news and art
 
 * [![Angular][Angular.io]][Angular-url]
 
-* [![Bootstrap][https://getbootstrap.com/]][Bootstrap-url]
+* [![Bootstrap][Bootstrap]][Bootstrap-url]
 
 * [![Firebase][Firebase.google.com]][Firebase-url]
 
